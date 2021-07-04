@@ -49,7 +49,7 @@ function resta(x, y) {
   var resta= x-y;
   return resta;
 }
-resta(2-1);
+resta(2,1);
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
